@@ -1,0 +1,4 @@
+pipython-docx
+python-pptx
+pdfminer.six
+pymupdf
