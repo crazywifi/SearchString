@@ -1,4 +1,1 @@
-pipython-docx
-python-pptx
-pdfminer.six
-pymupdf
+pip install python-docx python-pptx pdfminer.six pymupdf
